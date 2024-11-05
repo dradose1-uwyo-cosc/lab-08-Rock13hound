@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Elijah Gertsch]
+## [Assignment # 8]
+## [Submission date: 11/05/2024]
 ## Worked with/sources 
 * example
 * example
